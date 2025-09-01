@@ -12,11 +12,6 @@ Thank you for your interest in contributing! Please follow these guidelines to h
 
 ## Code Formatting
 
-- **Java/Kotlin:**
-    - Use the default IntelliJ IDEA code style for Java and Kotlin.
-    - Indent with 4 spaces.
-    - Use braces `{}` for all control structures.
-    - Add Javadoc for all public classes and methods.
 - **PHP:**
     - Follow [PSR-12](https://www.php-fig.org/psr/psr-12/) coding standards.
 - **General:**
@@ -80,5 +75,6 @@ Your commits will be checked automatically. If your message does not follow the 
 
 - Use GitHub Issues for bugs and feature requests.
 - Be respectful and constructive in all discussions.
+
 
 Thank you for helping improve BridgeSplash!
